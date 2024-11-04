@@ -48,7 +48,7 @@ The Power BI dashboard leverages various charts and graphs to convey information
 
 The full internal audit analysis, with visualizations, can be downloaded here:
 
-[Download the Internal Audit PDF Report](docs/Internal_Audit_Analysis.pdf)
+[Download the Internal Audit PDF Report](https://github.com/YashRaj1240/Internal-Audit-Analysis/blob/d542ad16b202d1ee112b0e3221e754cf659861bf/Internal%20Audit%20Analysis.pdf)
 
 ## Conclusion
 
