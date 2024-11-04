@@ -1,6 +1,6 @@
 # Internal Audit Analysis
 
-![Internal Audit Dashboard](images/internal_audit_dashboard.png)
+![Internal Audit Dashboard](https://github.com/YashRaj1240/Internal-Audit-Analysis/blob/9859495792d3808ff2d8411ac0a6cd4bd5394c5e/internal%20audit%20anlalysis.png)
 
 ## Overview
 
